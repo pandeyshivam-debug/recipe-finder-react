@@ -29,19 +29,12 @@ A  a beautiful and functional web application where users can search for recipes
    npm install
    ```
 
-3. **Set up environment variables:**
-   - Create a `.env` file in the root directory.
-   - Add your API key for the recipe API:
-     ```
-     REACT_APP_RECIPE_API_KEY=your_api_key_here
-     ```
-
-4. **Start the development server:**
+3. **Start the development server:**
    ```bash
    npm start
    ```
 
-5. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Project Structure
 
