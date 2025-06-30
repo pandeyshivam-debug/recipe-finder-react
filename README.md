@@ -10,6 +10,22 @@ A  a beautiful and functional web application where users can search for recipes
 - **API Integration:** Fetches real-time recipes from a third-party API.
 - **Error Handling:** Messages for failed searches or API errors.
 
+### home page with search button disabled
+<img src="./screenshots/home-page.png" width="600px">
+
+### request throttling
+<img src="./screenshots/searching.png" width="600px">
+
+### search results
+<img src="./screenshots/search.png" width="600px">
+
+### favourite items
+<img src="./screenshots/favourites.png" width="600px">
+
+### default page for wrong search
+<img src="./screenshots/error.png" width="600px">
+
+
 ## Getting Started
 ### Prerequisites
 
@@ -40,14 +56,17 @@ A  a beautiful and functional web application where users can search for recipes
 
 ```
 recipe-finder-react/
-├── public/
+├── screenshots/
 ├── src/
 │   ├── components/
+│   ├── context/
 │   ├── pages/
-│   ├── services/
-│   ├── App.js
-│   └── index.js
-├── .env.example
+│   ├── utils/
+│   └── App.jsx
+│   └── index.css
+│   └── main.jsx
+├── .gitignore
+├── index.html
 ├── README.md
 ├── package.json
 └── ...
