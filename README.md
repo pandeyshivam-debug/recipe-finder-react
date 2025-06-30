@@ -1,6 +1,6 @@
 # Recipe Finder React
 
-A sleek, responsive web application for discovering recipes based on ingredients you have! Built with React, this project helps users find new meal ideas, explore cuisines, and manage their favorite recipes with ease.
+A  a beautiful and functional web application where users can search for recipes, view details, and save their favorites.
 
 ## Features
 
