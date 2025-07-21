@@ -11,7 +11,7 @@ const Navigation = () => {
         <div className="flex justify-between items-center h-16">
           <Link to="/" className="flex items-center">
             <span className="text-2xl mr-2">😋</span>
-            <span className="text-xl font-bold text-gray-900">Recipe Finder</span>
+            <span className="text-xl font-bold text-gray-900">Shivam's Recipe Finder</span>
           </Link>
           
           <div className="flex space-x-4">
